@@ -1,0 +1,1 @@
+Toto je ekvivalent http://data.gov.uk/data-request pre Slovensko určený tím, ktorí potrebujú nezávisle trackovať svoje požiadavky o údaje odoslané štátnym inštitúciám a zároveň tieto koordinovať s ďalšímu ľuďmi.
